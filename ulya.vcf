@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.6//EN
+N:Обухова;Юлия;;;
+FN:Юлия Обухова
+ORG:РА «Наш город»;
+EMAIL;type=INTERNET;type=HOME;type=pref:y.obukhova@nashgorod64
+TEL;type=pref:8 (905) 384-61-25
+URL;type=HOME;type=pref:www.nashgorod64.ru
+item1.URL:https://t.me/nashgorod64
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
